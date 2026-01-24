@@ -137,9 +137,8 @@ ACCESS: LIMITED
 
 </div>
 
-
 PROGRAMMING_LANGUAGES:
-  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,flask,mysql,mongodb,flutter,photoshop,framer,numpy,pandas,jupyter,github,git,cpp,vscode,discord,notion,linux,ubuntu)]   (https://skillicons.dev) 
+  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,flask,mysql,mongodb,flutter,photoshop,framer,numpy,pandas,jupyter,github,git,cpp,vscode,discord,notion,linux,ubuntu)]
 ```yaml
 
 
@@ -284,6 +283,7 @@ END OF FILE
 ```
 
 </div>
+
 
 
 
