@@ -138,8 +138,19 @@ ACCESS: LIMITED
 </div>
 
 PROGRAMMING_LANGUAGES:
-  arsenal: [![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,flask,mysql,mongodb,flutter,photoshop,framer,numpy,pandas,jupyter,github,git,cpp,vscode,discord,notion,linux,ubuntu)](https://skillicons.dev)
-  
+  arsenal: [![My Skills](https://skillicons.dev/icons?**Frontend & Core:**
+[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+
+**Tools & Databases:**
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Photoshop](https://skillicons.dev/icons?i=photoshop)](https://skillicons.dev)
+[![Framer](https://skillicons.dev/icons?i=framer)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 ```yaml
 
 
@@ -284,4 +295,5 @@ END OF FILE
 ```
 
 </div>
+
 
